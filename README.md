@@ -5,12 +5,12 @@ MKS TOOL is a tool that allows you to quickly modify the display UI and configur
 
 
 1. Two ways:
-
-
  - Download the released installation file from [https://github.com/makerbase-mks/MKS-TOOL/releases](https://github.com/makerbase-mks/MKS-TOOL/releases) and then install it.(only supports Windows OS) 
  - Directly run the "mainFrame.py" with Python. This requires you to install Python2.7.x, and you must have some experience using Python, because you need to install some libraries halfway. 
+2. Open the tool, choose the type of board+lcd and languagy and continue.
 
-2. Open the tool, choose the type of board+lcd and languagy and continue.![](https://github.com/makerbase-mks/MKS-TOOL/blob/master/Images/choose.png)
+![](https://github.com/makerbase-mks/MKS-TOOL/blob/master/Images/choose.png)
+
 3. Now you can modify the images of each page or modify the configuration file.![](https://github.com/makerbase-mks/MKS-TOOL/blob/master/Images/step1.png)
 
 ### Modify images
