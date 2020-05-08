@@ -1,0 +1,1621 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-05-08 11:08+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: mainFrame.py:33
+msgid "准备打印"
+msgstr ""
+
+#: mainFrame.py:33
+msgid "开机logo"
+msgstr ""
+
+#: mainFrame.py:33 mainFrame.py:1624
+msgid "回零"
+msgstr ""
+
+#: mainFrame.py:33 mainFrame.py:1624
+msgid "设置"
+msgstr ""
+
+#: mainFrame.py:33 mainFrame.py:1624
+msgid "调平"
+msgstr ""
+
+#: mainFrame.py:33 mainFrame.py:1624 mainFrame.py:1640
+msgid "预热"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1834
+#: H:\devproject\screen2bin\mainFrame.py:3376
+msgid "工具"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1835
+#: H:\devproject\screen2bin\mainFrame.py:3352
+msgid "机器参数"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1847
+msgid "0x00:不翻转"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1847
+msgid "0xEE:翻转"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1847
+msgid "屏幕翻转180度"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1853
+msgid "0:不支持"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1853
+msgid "1:支持"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1853
+msgid "2进1出设置"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1902
+msgid "脉冲保持时间"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1902
+msgid "脉冲保持时间（单位：机器周期）"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1910
+msgid "热床最小温度"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1947
+msgid "打完关机延时时间（单位：秒）"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1947
+msgid "打完关机延时时间（秒）"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1968
+msgid "BLTOUCH"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1968
+#: H:\devproject\screen2bin\mainFrame.py:2000
+msgid "0:禁用"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1968
+#: H:\devproject\screen2bin\mainFrame.py:2000
+msgid "1:启用"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1975
+msgid "0:不使能"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1975
+msgid "Z_SAFE_HOMING"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1975
+msgid "使能，避免回零时探针在热床"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2000
+msgid "使用wifi列表扫描"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2000
+msgid "是否使用wifi列表扫描"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2001
+msgid "0:显示"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2001
+msgid "1:不显示"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2001
+msgid "显示wifi按钮"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2002
+msgid "About_type"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2003
+msgid "About_version"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2004
+msgid "About_company"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2005
+msgid "About_email"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2006
+msgid "暂停挤出量(mm)"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2006
+#: H:\devproject\screen2bin\mainFrame.py:2007
+msgid "暂停/恢复挤出量配置（单位：mm）"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2007
+msgid "恢复挤出量(mm)"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2008
+msgid "恢复挤出增加百分比(%)"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2008
+msgid "恢复挤出增加百分比，为0时该项不起作用（单位：%）"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2009
+msgid "0:关闭"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2009
+msgid "唤醒功能"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2009
+msgid "是否开启唤醒功能"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2010
+msgid "设置进入休眠时间（单位：秒）"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2010
+msgid "进入休眠时间(s)"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3364
+#: H:\devproject\screen2bin\mainFrame.py:3366
+msgid "手动关机"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3374
+msgid "重新连接"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3378
+msgid "机器设置"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3378
+msgid "温度设置"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3378
+msgid "电机设置"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3378
+msgid "高级设置"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3473
+msgid "请选择类型："
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3477
+msgid "请选择语言："
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:3481
+msgid "确定"
+msgstr ""
+
+#: mainFrame.py:33 mainFrame.py:1624 mainFrame.py:1658 mainFrame.py:1660
+msgid "挤出"
+msgstr ""
+
+#: mainFrame.py:33 mainFrame.py:1624 mainFrame.py:1658 mainFrame.py:1660
+msgid "移动"
+msgstr ""
+
+#: mainFrame.py:33 mainFrame.py:1636 mainFrame.py:1662
+msgid "风扇"
+msgstr ""
+
+#: mainFrame.py:34
+msgid "WIFI"
+msgstr ""
+
+#: mainFrame.py:34
+msgid "变速"
+msgstr ""
+
+#: mainFrame.py:34
+msgid "文件系统"
+msgstr ""
+
+#: mainFrame.py:34
+msgid "更多（打印中）"
+msgstr ""
+
+#: mainFrame.py:34
+msgid "正在打印"
+msgstr ""
+
+#: mainFrame.py:34
+msgid "选择文件"
+msgstr ""
+
+#: mainFrame.py:34 mainFrame.py:48 mainFrame.py:1636
+msgid "语言"
+msgstr ""
+
+#: mainFrame.py:34 mainFrame.py:1624 mainFrame.py:1656 mainFrame.py:1658
+msgid "更多"
+msgstr ""
+
+#: mainFrame.py:34 mainFrame.py:1636 mainFrame.py:1656 mainFrame.py:1658
+#: mainFrame.py:1662
+msgid "换料"
+msgstr ""
+
+#: mainFrame.py:34 mainFrame.py:1654
+msgid "操作"
+msgstr ""
+
+#: mainFrame.py:34 mainFrame.py:1656
+msgid "暂停"
+msgstr ""
+
+#: mainFrame.py:45
+msgid "0:MKS NANO+TFT32"
+msgstr ""
+
+#: mainFrame.py:45
+msgid "1:MKS NANO+TFT35"
+msgstr ""
+
+#: mainFrame.py:45
+msgid "2:MKS Robin2"
+msgstr ""
+
+#: mainFrame.py:45
+msgid "主板类型"
+msgstr ""
+
+#: mainFrame.py:46
+msgid "0:经典模式"
+msgstr ""
+
+#: mainFrame.py:46
+msgid "1:简约模式"
+msgstr ""
+
+#: mainFrame.py:46
+msgid "屏幕首页显示模式"
+msgstr ""
+
+#: mainFrame.py:47
+msgid "0:配置文件选项切换语言"
+msgstr ""
+
+#: mainFrame.py:47
+msgid "1:屏幕按钮切换语言"
+msgstr ""
+
+#: mainFrame.py:47
+msgid "语言切换方式"
+msgstr ""
+
+#: mainFrame.py:48
+msgid "1:简体中文"
+msgstr ""
+
+#: mainFrame.py:48
+msgid "2:繁体中文"
+msgstr ""
+
+#: mainFrame.py:48
+msgid "3:英文"
+msgstr ""
+
+#: mainFrame.py:48
+msgid "4:俄语"
+msgstr ""
+
+#: mainFrame.py:48
+msgid "5:西班牙语"
+msgstr ""
+
+#: mainFrame.py:48
+msgid "6:法语"
+msgstr ""
+
+#: mainFrame.py:48
+msgid "7:意大利语"
+msgstr ""
+
+#: mainFrame.py:49
+msgid "0:Cartesian"
+msgstr ""
+
+#: mainFrame.py:49
+msgid "1:DELTA"
+msgstr ""
+
+#: mainFrame.py:49
+msgid "2:COREXY"
+msgstr ""
+
+#: mainFrame.py:49
+msgid "机型设置"
+msgstr ""
+
+#: mainFrame.py:50 mainFrame.py:52 mainFrame.py:53 mainFrame.py:122
+#: mainFrame.py:123 mainFrame.py:124 mainFrame.py:125 mainFrame.py:126
+#: mainFrame.py:127 mainFrame.py:128 mainFrame.py:129 mainFrame.py:142
+#: mainFrame.py:143
+msgid "1:开启"
+msgstr ""
+
+#: mainFrame.py:50 mainFrame.py:52 mainFrame.py:53 mainFrame.py:122
+#: mainFrame.py:123 mainFrame.py:124 mainFrame.py:125 mainFrame.py:126
+#: mainFrame.py:127 mainFrame.py:128 mainFrame.py:129 mainFrame.py:142
+#: mainFrame.py:143 mainFrame.py:190
+msgid "0:禁止"
+msgstr ""
+
+#: mainFrame.py:50 mainFrame.py:1626
+msgid "热床"
+msgstr ""
+
+#: mainFrame.py:51
+msgid "挤出头数量"
+msgstr ""
+
+#: mainFrame.py:52
+msgid "使能双Z功能"
+msgstr ""
+
+#: mainFrame.py:53
+msgid "使能Z轴双限位"
+msgstr ""
+
+#: mainFrame.py:54
+msgid "1:Z_MAX"
+msgstr ""
+
+#: mainFrame.py:54
+msgid "2:Z_MIN"
+msgstr ""
+
+#: mainFrame.py:54
+msgid "Z轴第二个限位接口"
+msgstr ""
+
+#: mainFrame.py:54 mainFrame.py:162
+msgid "0:不使用"
+msgstr ""
+
+#: mainFrame.py:55
+msgid "X轴最小行程"
+msgstr ""
+
+#: mainFrame.py:55
+msgid "X轴最小行程,范围为-999~99999"
+msgstr ""
+
+#: mainFrame.py:56
+msgid "Y轴最小行程"
+msgstr ""
+
+#: mainFrame.py:56
+msgid "Y轴最小行程,范围为-999~99999"
+msgstr ""
+
+#: mainFrame.py:57
+msgid "Z轴最小行程"
+msgstr ""
+
+#: mainFrame.py:58
+msgid "X轴最大行程"
+msgstr ""
+
+#: mainFrame.py:59
+msgid "Y轴最大行程"
+msgstr ""
+
+#: mainFrame.py:60
+msgid "Z轴最大行程"
+msgstr ""
+
+#: mainFrame.py:61
+msgid "暂停时X轴的位置"
+msgstr ""
+
+#: mainFrame.py:62
+msgid "暂停时Y轴的位置"
+msgstr ""
+
+#: mainFrame.py:63
+msgid "暂停时Z轴的位置"
+msgstr ""
+
+#: mainFrame.py:64
+msgid "双头时X轴的偏移值"
+msgstr ""
+
+#: mainFrame.py:65
+msgid "双头时Y轴的偏移值"
+msgstr ""
+
+#: mainFrame.py:66
+msgid "X轴的电机方向"
+msgstr ""
+
+#: mainFrame.py:66 mainFrame.py:67 mainFrame.py:68 mainFrame.py:69
+#: mainFrame.py:70
+msgid "0:反转"
+msgstr ""
+
+#: mainFrame.py:66 mainFrame.py:67 mainFrame.py:68 mainFrame.py:69
+#: mainFrame.py:70
+msgid "1:正转"
+msgstr ""
+
+#: mainFrame.py:67
+msgid "Y轴的电机方向"
+msgstr ""
+
+#: mainFrame.py:68
+msgid "Z轴的电机方向"
+msgstr ""
+
+#: mainFrame.py:69
+msgid "E0轴的电机方向"
+msgstr ""
+
+#: mainFrame.py:70
+msgid "E1轴的电机方向"
+msgstr ""
+
+#: mainFrame.py:71
+msgid "X轴脉冲值（Steps/mm）"
+msgstr ""
+
+#: mainFrame.py:72
+msgid "Y轴脉冲值（Steps/mm）"
+msgstr ""
+
+#: mainFrame.py:73
+msgid "Z轴脉冲值（Steps/mm）"
+msgstr ""
+
+#: mainFrame.py:74
+msgid "E0轴脉冲值（Steps/mm）"
+msgstr ""
+
+#: mainFrame.py:75
+msgid "E1轴脉冲值（Steps/mm）"
+msgstr ""
+
+#: mainFrame.py:76
+msgid "X轴默认速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:77
+msgid "Y轴默认速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:78
+msgid "Z轴默认速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:79
+msgid "E0轴默认速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:80
+msgid "E1轴默认速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:81
+msgid "X轴默认最大加速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:82
+msgid "Y轴默认最大加速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:83
+msgid "Z轴默认最大加速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:84
+msgid "E0轴默认最大加速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:85
+msgid "E1轴默认最大加速度 (mm/s)"
+msgstr ""
+
+#: mainFrame.py:86
+msgid "X,Y,Z,E 打印时的默认加速度"
+msgstr ""
+
+#: mainFrame.py:87
+msgid "X,Y,Z,E 回抽默认加速度"
+msgstr ""
+
+#: mainFrame.py:88
+msgid "X,Y,Z 非打印时的默认加速度"
+msgstr ""
+
+#: mainFrame.py:89
+msgid "默认最小速度"
+msgstr ""
+
+#: mainFrame.py:90
+msgid ">DEFAULT_MINSEGMENTTIME"
+msgstr ""
+
+#: mainFrame.py:91
+msgid ">DEFAULT_MINTRAVELFEEDRATE"
+msgstr ""
+
+#: mainFrame.py:92
+msgid "X轴 Jerk (mm/s)"
+msgstr ""
+
+#: mainFrame.py:93
+msgid "Y轴 Jerk (mm/s)"
+msgstr ""
+
+#: mainFrame.py:94
+msgid "Z轴 Jerk (mm/s)"
+msgstr ""
+
+#: mainFrame.py:95
+msgid "E轴 Jerk (mm/s)"
+msgstr ""
+
+#: mainFrame.py:96
+msgid "X轴高低电平使能"
+msgstr ""
+
+#: mainFrame.py:96 mainFrame.py:97 mainFrame.py:98 mainFrame.py:99
+msgid "0:低"
+msgstr ""
+
+#: mainFrame.py:96 mainFrame.py:97 mainFrame.py:98 mainFrame.py:99
+msgid "1:高"
+msgstr ""
+
+#: mainFrame.py:97
+msgid "Y轴高低电平使能"
+msgstr ""
+
+#: mainFrame.py:98
+msgid "Z轴高低电平使能"
+msgstr ""
+
+#: mainFrame.py:99
+msgid "E轴高低电平使能"
+msgstr ""
+
+#: mainFrame.py:100
+msgid "-3:MAX31855热电偶"
+msgstr ""
+
+#: mainFrame.py:100
+msgid "1:100k热敏"
+msgstr ""
+
+#: mainFrame.py:100
+msgid "挤出头热敏类型"
+msgstr ""
+
+#: mainFrame.py:101
+msgid "挤出机最低挤出温度"
+msgstr ""
+
+#: mainFrame.py:102
+msgid "挤出头1最低温度"
+msgstr ""
+
+#: mainFrame.py:103
+msgid "挤出头1最大温度"
+msgstr ""
+
+#: mainFrame.py:104
+msgid "挤出头2最低温度"
+msgstr ""
+
+#: mainFrame.py:105
+msgid "挤出头2最大温度"
+msgstr ""
+
+#: mainFrame.py:106
+msgid "热床最大温度"
+msgstr ""
+
+#: mainFrame.py:107
+msgid ">THERMAL_PROTECTION_PERIOD"
+msgstr ""
+
+#: mainFrame.py:108
+msgid ">THERMAL_PROTECTION_HYSTERESIS"
+msgstr ""
+
+#: mainFrame.py:109
+msgid ">WATCH_TEMP_PERIOD"
+msgstr ""
+
+#: mainFrame.py:110
+msgid ">WATCH_TEMP_INCREASE"
+msgstr ""
+
+#: mainFrame.py:111
+msgid ">THERMAL_PROTECTION_BED_PERIOD"
+msgstr ""
+
+#: mainFrame.py:112
+msgid ">THERMAL_PROTECTION_BED_HYSTERESIS"
+msgstr ""
+
+#: mainFrame.py:113
+msgid ">WATCH_BED_TEMP_PERIOD"
+msgstr ""
+
+#: mainFrame.py:114
+msgid ">WATCH_BED_TEMP_INCREASE"
+msgstr ""
+
+#: mainFrame.py:115
+msgid "0:bang-bang"
+msgstr ""
+
+#: mainFrame.py:115
+msgid "1:PID"
+msgstr ""
+
+#: mainFrame.py:115
+msgid "挤出头温控模式选择"
+msgstr ""
+
+#: mainFrame.py:116
+msgid "挤出头温控P值设置"
+msgstr ""
+
+#: mainFrame.py:117
+msgid "挤出头温控I值设置"
+msgstr ""
+
+#: mainFrame.py:118
+msgid "挤出头温控D值设置"
+msgstr ""
+
+#: mainFrame.py:119
+msgid "热床温控P值设置"
+msgstr ""
+
+#: mainFrame.py:120
+msgid "热床温控I值设置"
+msgstr ""
+
+#: mainFrame.py:121
+msgid "热床温控D值设置"
+msgstr ""
+
+#: mainFrame.py:122
+msgid "最小软限位"
+msgstr ""
+
+#: mainFrame.py:123
+msgid "最大软限位"
+msgstr ""
+
+#: mainFrame.py:124
+msgid "使能X轴最小值限位开关"
+msgstr ""
+
+#: mainFrame.py:125
+msgid "使能Y轴最小值限位开关"
+msgstr ""
+
+#: mainFrame.py:126
+msgid "使能Z轴最小值限位开关"
+msgstr ""
+
+#: mainFrame.py:127
+msgid "使能X轴最大值限位开关"
+msgstr ""
+
+#: mainFrame.py:128
+msgid "使能Y轴最大值限位开关"
+msgstr ""
+
+#: mainFrame.py:129
+msgid "使能Z轴最大值限位开关"
+msgstr ""
+
+#: mainFrame.py:130
+msgid "X轴最小限位开关类型"
+msgstr ""
+
+#: mainFrame.py:130 mainFrame.py:131 mainFrame.py:132 mainFrame.py:133
+#: mainFrame.py:134 mainFrame.py:135
+msgid "0:常开"
+msgstr ""
+
+#: mainFrame.py:130 mainFrame.py:131 mainFrame.py:132 mainFrame.py:133
+#: mainFrame.py:134 mainFrame.py:135
+msgid "1:关闭"
+msgstr ""
+
+#: mainFrame.py:131
+msgid "Y轴最小限位开关类型"
+msgstr ""
+
+#: mainFrame.py:132
+msgid "Z轴最小限位开关类型"
+msgstr ""
+
+#: mainFrame.py:133
+msgid "X轴最大限位开关类型"
+msgstr ""
+
+#: mainFrame.py:134
+msgid "Y轴最大限位开关类型"
+msgstr ""
+
+#: mainFrame.py:135
+msgid "Z轴最大限位开关类型"
+msgstr ""
+
+#: mainFrame.py:136
+msgid "X轴回零方向"
+msgstr ""
+
+#: mainFrame.py:136 mainFrame.py:137 mainFrame.py:138
+msgid "-1:最小值方向"
+msgstr ""
+
+#: mainFrame.py:136 mainFrame.py:137 mainFrame.py:138
+msgid "1:最大值方向"
+msgstr ""
+
+#: mainFrame.py:137
+msgid "Y轴回零方向"
+msgstr ""
+
+#: mainFrame.py:138
+msgid "Z轴回零方向"
+msgstr ""
+
+#: mainFrame.py:139
+msgid "XY轴回零速度 (mm/m)"
+msgstr ""
+
+#: mainFrame.py:140
+msgid "Z轴回零速度 (mm/m)"
+msgstr ""
+
+#: mainFrame.py:141
+msgid "0:X先回零"
+msgstr ""
+
+#: mainFrame.py:141
+msgid "1:Y先回零"
+msgstr ""
+
+#: mainFrame.py:141
+msgid "回零时xy轴的顺序"
+msgstr ""
+
+#: mainFrame.py:142
+msgid "打完关机"
+msgstr ""
+
+#: mainFrame.py:143
+msgid "是否接UPS电源"
+msgstr ""
+
+#: mainFrame.py:144
+msgid "0:mks pwc"
+msgstr ""
+
+#: mainFrame.py:144
+msgid "1:mks 220det"
+msgstr ""
+
+#: mainFrame.py:144
+msgid "配合UPS电源检测模块"
+msgstr ""
+
+#: mainFrame.py:145
+msgid "挤出头1断料检测"
+msgstr ""
+
+#: mainFrame.py:145 mainFrame.py:146
+msgid "0:低电平触发"
+msgstr ""
+
+#: mainFrame.py:145 mainFrame.py:146
+msgid "1:高电平触发"
+msgstr ""
+
+#: mainFrame.py:146
+msgid "挤出头2断料检测"
+msgstr ""
+
+#: mainFrame.py:147
+msgid "换料进料的长度"
+msgstr ""
+
+#: mainFrame.py:148
+msgid "换料进料速度配置(mm/min)"
+msgstr ""
+
+#: mainFrame.py:149
+msgid "换料进料最低限制温度配置"
+msgstr ""
+
+#: mainFrame.py:150
+msgid "换料退料的长度"
+msgstr ""
+
+#: mainFrame.py:151
+msgid "换料退料速度配置(mm/min)"
+msgstr ""
+
+#: mainFrame.py:152
+msgid "换料退料最低限制温度配置"
+msgstr ""
+
+#: mainFrame.py:153
+msgid "0:手动调平"
+msgstr ""
+
+#: mainFrame.py:153
+msgid "1:自动调平"
+msgstr ""
+
+#: mainFrame.py:153
+msgid "调平方式"
+msgstr ""
+
+#: mainFrame.py:154
+msgid "3:3"
+msgstr ""
+
+#: mainFrame.py:154
+msgid "4:4"
+msgstr ""
+
+#: mainFrame.py:154
+msgid "5:5"
+msgstr ""
+
+#: mainFrame.py:154
+msgid "手动调平的调平点数"
+msgstr ""
+
+#: mainFrame.py:155
+msgid "调平点1（X,Y）"
+msgstr ""
+
+#: mainFrame.py:156
+msgid "调平点2（X,Y）"
+msgstr ""
+
+#: mainFrame.py:157
+msgid "调平点3（X,Y）"
+msgstr ""
+
+#: mainFrame.py:158
+msgid "调平点4（X,Y）"
+msgstr ""
+
+#: mainFrame.py:159
+msgid "调平点5（X,Y）"
+msgstr ""
+
+#: mainFrame.py:160
+msgid "自动调平指令"
+msgstr ""
+
+#: mainFrame.py:161
+msgid "0:不使用调平"
+msgstr ""
+
+#: mainFrame.py:161
+msgid "3:多点自动调平"
+msgstr ""
+
+#: mainFrame.py:161
+msgid "5:手动网格调平"
+msgstr ""
+
+#: mainFrame.py:161
+msgid "自动调平方式"
+msgstr ""
+
+#: mainFrame.py:162
+msgid "1:接Z_MIN"
+msgstr ""
+
+#: mainFrame.py:162
+msgid "2:接ZMAX"
+msgstr ""
+
+#: mainFrame.py:162
+msgid "调平的探针"
+msgstr ""
+
+#: mainFrame.py:163
+msgid "探针X轴偏移量"
+msgstr ""
+
+#: mainFrame.py:164
+msgid "探针Y轴偏移量"
+msgstr ""
+
+#: mainFrame.py:165
+msgid "探针Z轴偏移量"
+msgstr ""
+
+#: mainFrame.py:166
+msgid "调平时探针XY轴移动速度(mm/m)"
+msgstr ""
+
+#: mainFrame.py:167
+msgid "调平时探针下降第一段速度(mm/m)"
+msgstr ""
+
+#: mainFrame.py:168
+msgid "调平时探针下降第二段速度(mm/m)"
+msgstr ""
+
+#: mainFrame.py:169
+msgid "自动调平X轴上点数"
+msgstr ""
+
+#: mainFrame.py:170
+msgid "自动调平Y轴上点数"
+msgstr ""
+
+#: mainFrame.py:171
+msgid "Z轴抬起/放下的距离"
+msgstr ""
+
+#: mainFrame.py:172
+msgid "Z轴在两个调平点的的移动高度"
+msgstr ""
+
+#: mainFrame.py:173
+msgid "调平热床边界距离X1"
+msgstr ""
+
+#: mainFrame.py:174
+msgid "调平热床边界距离X2"
+msgstr ""
+
+#: mainFrame.py:175
+msgid "调平热床边界距离Y1"
+msgstr ""
+
+#: mainFrame.py:176
+msgid "调平热床边界距离Y2"
+msgstr ""
+
+#: mainFrame.py:177
+msgid "MESH_BED_LEVELING调平模式下边界距离范围"
+msgstr ""
+
+#: mainFrame.py:178
+msgid "DELTA_SEGMENTS_PER_SECOND"
+msgstr ""
+
+#: mainFrame.py:179
+msgid "DELTA_DIAGONAL_ROD"
+msgstr ""
+
+#: mainFrame.py:180
+msgid "DELTA_SMOOTH_ROD_OFFSET"
+msgstr ""
+
+#: mainFrame.py:181
+msgid "DELTA_EFFECTOR_OFFSET"
+msgstr ""
+
+#: mainFrame.py:182
+msgid "DELTA_CARRIAGE_OFFSET"
+msgstr ""
+
+#: mainFrame.py:183
+msgid "DELTA_RADIUS"
+msgstr ""
+
+#: mainFrame.py:184
+msgid "DELTA_HEIGHT"
+msgstr ""
+
+#: mainFrame.py:185
+msgid "DELTA_PRINTABLE_RADIUS"
+msgstr ""
+
+#: mainFrame.py:186
+msgid "DELTA_CALIBRATION_RADIUS"
+msgstr ""
+
+#: mainFrame.py:187
+msgid "0:STA"
+msgstr ""
+
+#: mainFrame.py:187
+msgid "1:AP"
+msgstr ""
+
+#: mainFrame.py:187
+msgid "WIFI模式"
+msgstr ""
+
+#: mainFrame.py:188
+msgid "WIFI名称"
+msgstr ""
+
+#: mainFrame.py:189
+msgid "WIFI密码"
+msgstr ""
+
+#: mainFrame.py:190
+msgid "1:使能"
+msgstr ""
+
+#: mainFrame.py:190
+msgid "云服务使能"
+msgstr ""
+
+#: mainFrame.py:191
+msgid "云服务链接"
+msgstr ""
+
+#: mainFrame.py:192
+msgid "云服务端口"
+msgstr ""
+
+#: mainFrame.py:193
+msgid "更多界面自定义数量按钮"
+msgstr ""
+
+#: mainFrame.py:194
+msgid "更多界面自定义按钮1"
+msgstr ""
+
+#: mainFrame.py:195
+msgid "更多界面自定义按钮2"
+msgstr ""
+
+#: mainFrame.py:196
+msgid "更多界面自定义按钮3"
+msgstr ""
+
+#: mainFrame.py:197
+msgid "更多界面自定义按钮4"
+msgstr ""
+
+#: mainFrame.py:198
+msgid "更多界面自定义按钮5"
+msgstr ""
+
+#: mainFrame.py:199
+msgid "更多界面自定义按钮6"
+msgstr ""
+
+#: mainFrame.py:200
+msgid "更多界面自定义按钮7"
+msgstr ""
+
+#: mainFrame.py:201
+msgid "打印中更多界面自定义数量按钮"
+msgstr ""
+
+#: mainFrame.py:202
+msgid "打印中更多界面自定义按钮1"
+msgstr ""
+
+#: mainFrame.py:203
+msgid "打印中更多界面自定义按钮2"
+msgstr ""
+
+#: mainFrame.py:204
+msgid "打印中更多界面自定义按钮3"
+msgstr ""
+
+#: mainFrame.py:205
+msgid "打印中更多界面自定义按钮4"
+msgstr ""
+
+#: mainFrame.py:206
+msgid "屏幕背景色"
+msgstr ""
+
+#: mainFrame.py:207
+msgid "标题文字"
+msgstr ""
+
+#: mainFrame.py:208
+msgid "状态栏背景色"
+msgstr ""
+
+#: mainFrame.py:209
+msgid "状态栏字体颜色"
+msgstr ""
+
+#: mainFrame.py:210
+msgid "文件目录按钮背景色"
+msgstr ""
+
+#: mainFrame.py:211
+msgid "文件目录按钮字体颜色"
+msgstr ""
+
+#: mainFrame.py:212
+msgid "通用按钮背景色"
+msgstr ""
+
+#: mainFrame.py:213
+msgid "通用按钮文字颜色"
+msgstr ""
+
+#: mainFrame.py:214
+msgid "状态按钮背景色"
+msgstr ""
+
+#: mainFrame.py:215
+msgid "状态按钮字体颜色"
+msgstr ""
+
+#: mainFrame.py:216
+msgid "\"返回\"键背景色"
+msgstr ""
+
+#: mainFrame.py:217
+msgid "\"返回\"键字体颜色"
+msgstr ""
+
+#: mainFrame.py:218
+msgid "选定按钮背景色"
+msgstr ""
+
+#: mainFrame.py:219
+msgid "选定按钮字体颜色"
+msgstr ""
+
+#: mainFrame.py:220
+msgid "对话框按钮背景色"
+msgstr ""
+
+#: mainFrame.py:221
+msgid "对话框按钮字体颜色"
+msgstr ""
+
+#: mainFrame.py:222
+msgid "按钮字体偏移底边位置"
+msgstr ""
+
+#: mainFrame.py:256 mainFrame.py:1042
+msgid "配置文件"
+msgstr ""
+
+#: mainFrame.py:422
+msgid "准备.."
+msgstr ""
+
+#: mainFrame.py:423
+msgid "导出文件"
+msgstr ""
+
+#: mainFrame.py:424
+msgid "导入文件夹"
+msgstr ""
+
+#: mainFrame.py:425
+msgid "导入模板"
+msgstr ""
+
+#: mainFrame.py:698
+msgid "选择你的图标文件"
+msgstr ""
+
+#: mainFrame.py:811 mainFrame.py:818
+msgid "删除"
+msgstr ""
+
+#: mainFrame.py:812
+msgid "添加到预览界面"
+msgstr ""
+
+#: mainFrame.py:1088
+msgid "导出配置文件"
+msgstr ""
+
+#: mainFrame.py:1090
+msgid "导入配置文件"
+msgstr ""
+
+#: mainFrame.py:1128 mainFrame.py:1143
+msgid "选择你的配置文件"
+msgstr ""
+
+#: mainFrame.py:1165
+msgid "选择保存的文件夹"
+msgstr ""
+
+#: mainFrame.py:1177
+msgid "选择导入的文件夹"
+msgstr ""
+
+#: mainFrame.py:1206
+msgid "正在导入bin文件夹"
+msgstr ""
+
+#: mainFrame.py:1210
+msgid "已导入:"
+msgstr ""
+
+#: mainFrame.py:1212
+msgid "正在加载图片"
+msgstr ""
+
+#: mainFrame.py:1257
+msgid "已完成导入"
+msgstr ""
+
+#: mainFrame.py:1273 mainFrame.py:1283
+msgid "个bin文件"
+msgstr ""
+
+#: mainFrame.py:1273 mainFrame.py:1283
+msgid "已导出"
+msgstr ""
+
+#: mainFrame.py:1285
+msgid "已完成导出，可以关闭"
+msgstr ""
+
+#: mainFrame.py:1624
+msgid "打印"
+msgstr ""
+
+#: mainFrame.py:1626
+msgid "1℃"
+msgstr ""
+
+#: mainFrame.py:1626
+msgid "关闭"
+msgstr ""
+
+#: mainFrame.py:1626 mainFrame.py:1628 mainFrame.py:1630 mainFrame.py:1632
+#: mainFrame.py:1634 mainFrame.py:1636 mainFrame.py:1638 mainFrame.py:1640
+#: mainFrame.py:1642 mainFrame.py:1644 mainFrame.py:1649 mainFrame.py:1656
+#: mainFrame.py:1660 mainFrame.py:1662 mainFrame.py:1664 mainFrame.py:1666
+msgid "返回"
+msgstr ""
+
+#: mainFrame.py:1626 mainFrame.py:1638 mainFrame.py:1660
+msgid "减少"
+msgstr ""
+
+#: mainFrame.py:1626 mainFrame.py:1638 mainFrame.py:1660
+msgid "增加"
+msgstr ""
+
+#: mainFrame.py:1628
+msgid "5mm"
+msgstr ""
+
+#: mainFrame.py:1628
+msgid "低速"
+msgstr ""
+
+#: mainFrame.py:1628 mainFrame.py:1640
+msgid "喷头1"
+msgstr ""
+
+#: mainFrame.py:1628 mainFrame.py:1640
+msgid "进料"
+msgstr ""
+
+#: mainFrame.py:1628 mainFrame.py:1640
+msgid "退料"
+msgstr ""
+
+#: mainFrame.py:1630
+msgid "1mm"
+msgstr ""
+
+#: mainFrame.py:1630
+msgid "X+"
+msgstr ""
+
+#: mainFrame.py:1630
+msgid "X-"
+msgstr ""
+
+#: mainFrame.py:1630
+msgid "Y+"
+msgstr ""
+
+#: mainFrame.py:1630
+msgid "Y-"
+msgstr ""
+
+#: mainFrame.py:1630
+msgid "Z+"
+msgstr ""
+
+#: mainFrame.py:1630
+msgid "Z-"
+msgstr ""
+
+#: mainFrame.py:1632
+msgid "All"
+msgstr ""
+
+#: mainFrame.py:1632
+msgid "X"
+msgstr ""
+
+#: mainFrame.py:1632
+msgid "Y"
+msgstr ""
+
+#: mainFrame.py:1632
+msgid "Z"
+msgstr ""
+
+#: mainFrame.py:1634
+msgid "第一点"
+msgstr ""
+
+#: mainFrame.py:1634
+msgid "第三点"
+msgstr ""
+
+#: mainFrame.py:1634
+msgid "第二点"
+msgstr ""
+
+#: mainFrame.py:1634
+msgid "第五点"
+msgstr ""
+
+#: mainFrame.py:1634
+msgid "第四点"
+msgstr ""
+
+#: mainFrame.py:1636
+msgid "Wifi"
+msgstr ""
+
+#: mainFrame.py:1636
+msgid "关于"
+msgstr ""
+
+#: mainFrame.py:1636
+msgid "关闭电机"
+msgstr ""
+
+#: mainFrame.py:1636
+msgid "断点续打"
+msgstr ""
+
+#: mainFrame.py:1638
+msgid "0%"
+msgstr ""
+
+#: mainFrame.py:1638
+msgid "100%"
+msgstr ""
+
+#: mainFrame.py:1638
+msgid "50%"
+msgstr ""
+
+#: mainFrame.py:1640 mainFrame.py:1656 mainFrame.py:1658
+msgid "停止"
+msgstr ""
+
+#: mainFrame.py:1642
+msgid "SD"
+msgstr ""
+
+#: mainFrame.py:1642
+msgid "USB"
+msgstr ""
+
+#: mainFrame.py:1644
+msgid "更多5"
+msgstr ""
+
+#: mainFrame.py:1644
+msgid "更多6"
+msgstr ""
+
+#: mainFrame.py:1644
+msgid "更多7"
+msgstr ""
+
+#: mainFrame.py:1644 mainFrame.py:1662
+msgid "更多1"
+msgstr ""
+
+#: mainFrame.py:1644 mainFrame.py:1662
+msgid "更多2"
+msgstr ""
+
+#: mainFrame.py:1644 mainFrame.py:1662
+msgid "更多3"
+msgstr ""
+
+#: mainFrame.py:1644 mainFrame.py:1662
+msgid "更多4"
+msgstr ""
+
+#: mainFrame.py:1647 mainFrame.py:1649 mainFrame.py:1652
+msgid "test.g"
+msgstr ""
+
+#: mainFrame.py:1647 mainFrame.py:1652
+msgid " "
+msgstr ""
+
+#: mainFrame.py:1654
+msgid "200/200"
+msgstr ""
+
+#: mainFrame.py:1654
+msgid "255"
+msgstr ""
+
+#: mainFrame.py:1654
+msgid "60/60"
+msgstr ""
+
+#: mainFrame.py:1656
+msgid "温度"
+msgstr ""
+
+#: mainFrame.py:1658
+msgid "恢复"
+msgstr ""
+
+#: mainFrame.py:1660
+msgid "5%"
+msgstr ""
+
+#: mainFrame.py:1662
+msgid "自动关机"
+msgstr ""
+
+#: mainFrame.py:1664
+msgid "俄语"
+msgstr ""
+
+#: mainFrame.py:1664
+msgid "意大利语"
+msgstr ""
+
+#: mainFrame.py:1664
+msgid "法语"
+msgstr ""
+
+#: mainFrame.py:1664
+msgid "简体"
+msgstr ""
+
+#: mainFrame.py:1664
+msgid "繁体"
+msgstr ""
+
+#: mainFrame.py:1664
+msgid "英语"
+msgstr ""
+
+#: mainFrame.py:1664
+msgid "西班牙语"
+msgstr ""
+
+#: mainFrame.py:1666
+msgid "云服务"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2017
+msgid "0:不显示"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2017
+msgid "1:显示"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2017
+msgid "设置界面自定义功能"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2018
+msgid "setmenu_func1"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2018
+#: H:\devproject\screen2bin\mainFrame.py:2020
+#: H:\devproject\screen2bin\mainFrame.py:2021
+#: H:\devproject\screen2bin\mainFrame.py:2022
+#: H:\devproject\screen2bin\mainFrame.py:2023
+#: H:\devproject\screen2bin\mainFrame.py:2024
+#: H:\devproject\screen2bin\mainFrame.py:2025
+#: H:\devproject\screen2bin\mainFrame.py:2026
+#: H:\devproject\screen2bin\mainFrame.py:2028
+#: H:\devproject\screen2bin\mainFrame.py:2029
+#: H:\devproject\screen2bin\mainFrame.py:2030
+#: H:\devproject\screen2bin\mainFrame.py:2031
+#: H:\devproject\screen2bin\mainFrame.py:2032
+#: H:\devproject\screen2bin\mainFrame.py:2033
+#: H:\devproject\screen2bin\mainFrame.py:2034
+msgid "每条指令必须用分号\";\"隔开"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2032
+msgid "打印中更多界面自定义按钮5"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2033
+msgid "打印中更多界面自定义按钮6"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:2034
+msgid "打印中更多界面自定义按钮7"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1955
+msgid "0:mks ups"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1955
+msgid "接入断电检测模块"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1927
+msgid "热床温度调控模式选择"
+msgstr ""
+
+#: H:\devproject\screen2bin\mainFrame.py:1945
+msgid "Z_PROBE限位开关类型"
+msgstr ""
