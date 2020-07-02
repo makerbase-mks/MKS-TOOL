@@ -1,7 +1,7 @@
 # MKS-TOOL
 MKS TOOL is a tool that allows you to quickly modify the display UI and configuration files using a graphical interface (currently only supports MKS Robin series boards).
 
-Now there are two version of MKS TOOL, one is for installing in windows, the other is web version. Web version is independent with OS, so no matter you use Windows, Ubuntu, MacOS, you can use the web version throught the browser. Our follow-up mainly focuses on web version development.
+Now there are two versions of MKS TOOL, one is for installing in windows, the other is web version. Web version is independent with OS, so no matter you use Windows, Ubuntu, MacOS, you can use the web version throught the browser. Our follow-up mainly focuses on web version development.
 
 ## For Web Version Usage
 1. Visit the address with a browser: https://baizhongyun.cn/home/mkstoolview
