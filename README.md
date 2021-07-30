@@ -10,11 +10,11 @@ Now there are two versions of MKS TOOL, one is for installing in windows, the ot
 ## For Webpage Online Version Usage
 Webpage version is independent with OS, so no matter you use Windows, Ubuntu, MacOS, you can use the web version throught the browser.
 There are two part of tool now on the Web version:
-1. Online configuration of touch screen display pictures and styles (for MKS Robin series boards and MKS TFT series boards)  
+### 1. Online configuration of touch screen display pictures and styles (for MKS Robin series boards and MKS TFT series boards)  
   1.1 Visit the address with a browser: https://baizhongyun.cn/home/mkstoolview  
   1.2 According to the wizard, select the board you use, the firmware you use...  
   1.3 From the ui interface, you can modify the configuration files, modify the display icons, export the files to flash...  
-2. Compile Marlin V2.X firmware online  
+### 2. Compile Marlin V2.X firmware online  
  It solves the difficulty of installing VScode and PlatformIO when some users use Marlin 2.X firmware.  
   2.1 Visit the address with a browser: https://baizhongyun.cn/home/mkscompileview  
   2.2 Import the Marlin souce package (.zip file)  
