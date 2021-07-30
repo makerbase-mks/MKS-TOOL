@@ -1,14 +1,29 @@
 # MKS-TOOL
-MKS TOOL is a tool that allows you to quickly modify the display UI and configuration files using a graphical interface (currently only supports MKS Robin series boards).
+MKS developed the MKS TOOL series to make it more convenient for users to use 3d printer motherboards. We have developed the installed version and the online version of the webpage. The webpage online version will be the main development later. Now MKS TOOL has been implemented:
+- Online configuration of touch screen display pictures and styles (for MKS Robin series boards and MKS TFT series boards)
+- Modify configuration parameters (for Marlin and MKS firmware)
+- Compile Marlin V2.X firmware online
+More features will be developed....
 
-Now there are two versions of MKS TOOL, one is for installing in windows, the other is web version. Web version is independent with OS, so no matter you use Windows, Ubuntu, MacOS, you can use the web version throught the browser. Our follow-up mainly focuses on web version development.
+Now there are two versions of MKS TOOL, one is for installing in windows, the other is web version. 
 
-## For Web Version Usage
-1. Visit the address with a browser: https://baizhongyun.cn/home/mkstoolview
-2. According to the wizard, select the board you use, the firmware you use...
-3. From the ui interface, you can modify the configuration files, modify the display icons, export the files to flash...
+## For Webpage Online Version Usage
+Webpage version is independent with OS, so no matter you use Windows, Ubuntu, MacOS, you can use the web version throught the browser.
+There are two part of tool now on the Web version:
+1. Online configuration of touch screen display pictures and styles (for MKS Robin series boards and MKS TFT series boards)  
+  1.1 Visit the address with a browser: https://baizhongyun.cn/home/mkstoolview  
+  1.2 According to the wizard, select the board you use, the firmware you use...  
+  1.3 From the ui interface, you can modify the configuration files, modify the display icons, export the files to flash...  
+2. Compile Marlin V2.X firmware online  
+ It solves the difficulty of installing VScode and PlatformIO when some users use Marlin 2.X firmware.  
+  2.1 Visit the address with a browser: https://baizhongyun.cn/home/mkscompileview  
+  2.2 Import the Marlin souce package (.zip file)  
+  2.3 Choose the mainboard you use. Make sure the board type in the configuration file before importing is consistent with the current selection, otherwise, the compilation will not succeed.  
+  2.4 Leave the mail box address which will receive the comiple result. The compiled information and files will be sent to the filled email address.   
+  2.5 Click Online Compile. Large files will take some time to upload. Please pay attention to your email after the upload is successful. Compilation takes about 3 to 6 minutes. 
 
-## For Installed Version Usage
+
+## For Installed Version Usage(No longer maintained)
 
 1. Two ways:
  - Download the released installation file from [https://github.com/makerbase-mks/MKS-TOOL/releases](https://github.com/makerbase-mks/MKS-TOOL/releases) and then install it.(only supports Windows OS) 
